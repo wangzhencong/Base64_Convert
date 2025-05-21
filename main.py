@@ -23,6 +23,6 @@ def base64_txt_to_zip(txt_path, zip_path):
 
 if __name__ == "__main__":
 
-    zip_to_base64_txt("autoit-v3.zip", "autoit-v3.zip.txt")
+    zip_to_base64_txt("edgedriver_win64.zip", "edgedriver_win64-win64.txt")
     #test
     # base64_txt_to_zip("PixPin_2.0.0.3.zip.txt", "restored.zip")
